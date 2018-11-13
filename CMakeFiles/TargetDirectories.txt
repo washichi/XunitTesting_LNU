@@ -1,0 +1,3 @@
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles/edit_cache.dir
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles/rebuild_cache.dir
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles/executeTests.dir

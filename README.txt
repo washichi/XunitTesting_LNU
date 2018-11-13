@@ -39,3 +39,8 @@ Show expertice in the use of the XUnit framework, Mocking framework, coverage to
 Test behaviour using mocks
 Show the use of different type of mocking
 Use a Code coverage tool
+
+----------------------------------------------------------------------------------------------------------------------------
+Documentation used:
+
+https://www.srcmake.com/home/google-cpp-test-framework
