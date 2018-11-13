@@ -1,4 +1,4 @@
-#include "Song.cpp"
+#include "song.cpp"
 #include <gtest/gtest.h>
 
 TEST(SongTest, ValidInput)

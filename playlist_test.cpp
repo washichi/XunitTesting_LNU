@@ -1,4 +1,4 @@
-#include "Playlist.cpp"
+#include "playlist.cpp"
 #include <gtest/gtest.h>
 
 TEST(PlaylistTest, ValidInput)

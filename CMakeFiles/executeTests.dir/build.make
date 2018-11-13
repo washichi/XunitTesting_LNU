@@ -57,68 +57,94 @@ include CMakeFiles/executeTests.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/executeTests.dir/flags.make
 
-CMakeFiles/executeTests.dir/Song_test.cpp.o: CMakeFiles/executeTests.dir/flags.make
-CMakeFiles/executeTests.dir/Song_test.cpp.o: Song_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/executeTests.dir/Song_test.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/executeTests.dir/Song_test.cpp.o -c /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/Song_test.cpp
+CMakeFiles/executeTests.dir/playlistManager_test.cpp.o: CMakeFiles/executeTests.dir/flags.make
+CMakeFiles/executeTests.dir/playlistManager_test.cpp.o: playlistManager_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/executeTests.dir/playlistManager_test.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/executeTests.dir/playlistManager_test.cpp.o -c /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlistManager_test.cpp
 
-CMakeFiles/executeTests.dir/Song_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/executeTests.dir/Song_test.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/Song_test.cpp > CMakeFiles/executeTests.dir/Song_test.cpp.i
+CMakeFiles/executeTests.dir/playlistManager_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/executeTests.dir/playlistManager_test.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlistManager_test.cpp > CMakeFiles/executeTests.dir/playlistManager_test.cpp.i
 
-CMakeFiles/executeTests.dir/Song_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/executeTests.dir/Song_test.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/Song_test.cpp -o CMakeFiles/executeTests.dir/Song_test.cpp.s
+CMakeFiles/executeTests.dir/playlistManager_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/executeTests.dir/playlistManager_test.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlistManager_test.cpp -o CMakeFiles/executeTests.dir/playlistManager_test.cpp.s
 
-CMakeFiles/executeTests.dir/Song_test.cpp.o.requires:
+CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.requires:
 
-.PHONY : CMakeFiles/executeTests.dir/Song_test.cpp.o.requires
+.PHONY : CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.requires
 
-CMakeFiles/executeTests.dir/Song_test.cpp.o.provides: CMakeFiles/executeTests.dir/Song_test.cpp.o.requires
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/Song_test.cpp.o.provides.build
-.PHONY : CMakeFiles/executeTests.dir/Song_test.cpp.o.provides
+CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.provides: CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.provides.build
+.PHONY : CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.provides
 
-CMakeFiles/executeTests.dir/Song_test.cpp.o.provides.build: CMakeFiles/executeTests.dir/Song_test.cpp.o
+CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.provides.build: CMakeFiles/executeTests.dir/playlistManager_test.cpp.o
 
 
-CMakeFiles/executeTests.dir/Playlist_test.cpp.o: CMakeFiles/executeTests.dir/flags.make
-CMakeFiles/executeTests.dir/Playlist_test.cpp.o: Playlist_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/executeTests.dir/Playlist_test.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/executeTests.dir/Playlist_test.cpp.o -c /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/Playlist_test.cpp
+CMakeFiles/executeTests.dir/song_test.cpp.o: CMakeFiles/executeTests.dir/flags.make
+CMakeFiles/executeTests.dir/song_test.cpp.o: song_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/executeTests.dir/song_test.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/executeTests.dir/song_test.cpp.o -c /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/song_test.cpp
 
-CMakeFiles/executeTests.dir/Playlist_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/executeTests.dir/Playlist_test.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/Playlist_test.cpp > CMakeFiles/executeTests.dir/Playlist_test.cpp.i
+CMakeFiles/executeTests.dir/song_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/executeTests.dir/song_test.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/song_test.cpp > CMakeFiles/executeTests.dir/song_test.cpp.i
 
-CMakeFiles/executeTests.dir/Playlist_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/executeTests.dir/Playlist_test.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/Playlist_test.cpp -o CMakeFiles/executeTests.dir/Playlist_test.cpp.s
+CMakeFiles/executeTests.dir/song_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/executeTests.dir/song_test.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/song_test.cpp -o CMakeFiles/executeTests.dir/song_test.cpp.s
 
-CMakeFiles/executeTests.dir/Playlist_test.cpp.o.requires:
+CMakeFiles/executeTests.dir/song_test.cpp.o.requires:
 
-.PHONY : CMakeFiles/executeTests.dir/Playlist_test.cpp.o.requires
+.PHONY : CMakeFiles/executeTests.dir/song_test.cpp.o.requires
 
-CMakeFiles/executeTests.dir/Playlist_test.cpp.o.provides: CMakeFiles/executeTests.dir/Playlist_test.cpp.o.requires
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/Playlist_test.cpp.o.provides.build
-.PHONY : CMakeFiles/executeTests.dir/Playlist_test.cpp.o.provides
+CMakeFiles/executeTests.dir/song_test.cpp.o.provides: CMakeFiles/executeTests.dir/song_test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/song_test.cpp.o.provides.build
+.PHONY : CMakeFiles/executeTests.dir/song_test.cpp.o.provides
 
-CMakeFiles/executeTests.dir/Playlist_test.cpp.o.provides.build: CMakeFiles/executeTests.dir/Playlist_test.cpp.o
+CMakeFiles/executeTests.dir/song_test.cpp.o.provides.build: CMakeFiles/executeTests.dir/song_test.cpp.o
+
+
+CMakeFiles/executeTests.dir/playlist_test.cpp.o: CMakeFiles/executeTests.dir/flags.make
+CMakeFiles/executeTests.dir/playlist_test.cpp.o: playlist_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/executeTests.dir/playlist_test.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/executeTests.dir/playlist_test.cpp.o -c /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlist_test.cpp
+
+CMakeFiles/executeTests.dir/playlist_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/executeTests.dir/playlist_test.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlist_test.cpp > CMakeFiles/executeTests.dir/playlist_test.cpp.i
+
+CMakeFiles/executeTests.dir/playlist_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/executeTests.dir/playlist_test.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlist_test.cpp -o CMakeFiles/executeTests.dir/playlist_test.cpp.s
+
+CMakeFiles/executeTests.dir/playlist_test.cpp.o.requires:
+
+.PHONY : CMakeFiles/executeTests.dir/playlist_test.cpp.o.requires
+
+CMakeFiles/executeTests.dir/playlist_test.cpp.o.provides: CMakeFiles/executeTests.dir/playlist_test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/playlist_test.cpp.o.provides.build
+.PHONY : CMakeFiles/executeTests.dir/playlist_test.cpp.o.provides
+
+CMakeFiles/executeTests.dir/playlist_test.cpp.o.provides.build: CMakeFiles/executeTests.dir/playlist_test.cpp.o
 
 
 # Object files for target executeTests
 executeTests_OBJECTS = \
-"CMakeFiles/executeTests.dir/Song_test.cpp.o" \
-"CMakeFiles/executeTests.dir/Playlist_test.cpp.o"
+"CMakeFiles/executeTests.dir/playlistManager_test.cpp.o" \
+"CMakeFiles/executeTests.dir/song_test.cpp.o" \
+"CMakeFiles/executeTests.dir/playlist_test.cpp.o"
 
 # External object files for target executeTests
 executeTests_EXTERNAL_OBJECTS =
 
-executeTests: CMakeFiles/executeTests.dir/Song_test.cpp.o
-executeTests: CMakeFiles/executeTests.dir/Playlist_test.cpp.o
+executeTests: CMakeFiles/executeTests.dir/playlistManager_test.cpp.o
+executeTests: CMakeFiles/executeTests.dir/song_test.cpp.o
+executeTests: CMakeFiles/executeTests.dir/playlist_test.cpp.o
 executeTests: CMakeFiles/executeTests.dir/build.make
 executeTests: /usr/lib/libgtest.a
 executeTests: CMakeFiles/executeTests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable executeTests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable executeTests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/executeTests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,8 +152,9 @@ CMakeFiles/executeTests.dir/build: executeTests
 
 .PHONY : CMakeFiles/executeTests.dir/build
 
-CMakeFiles/executeTests.dir/requires: CMakeFiles/executeTests.dir/Song_test.cpp.o.requires
-CMakeFiles/executeTests.dir/requires: CMakeFiles/executeTests.dir/Playlist_test.cpp.o.requires
+CMakeFiles/executeTests.dir/requires: CMakeFiles/executeTests.dir/playlistManager_test.cpp.o.requires
+CMakeFiles/executeTests.dir/requires: CMakeFiles/executeTests.dir/song_test.cpp.o.requires
+CMakeFiles/executeTests.dir/requires: CMakeFiles/executeTests.dir/playlist_test.cpp.o.requires
 
 .PHONY : CMakeFiles/executeTests.dir/requires
 

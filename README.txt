@@ -44,3 +44,5 @@ Use a Code coverage tool
 Documentation used:
 
 https://www.srcmake.com/home/google-cpp-test-framework
+https://github.com/google/googletest/blob/master/googletest/docs/primer.md
+https://github.com/bast/gtest-demo
