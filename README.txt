@@ -2,16 +2,22 @@ Description
 
 Assignment 1.2:
 
+Project:                    PlaylistOptimizer
 Language of implementation: C++
 Framework for unit-testing: Google Test
 Framework for Mocking:      Google Mock
 Code coverage tool:         GNU Gcov & Lcov
 
-Project:
+PlaylistOptimizer is a project developed during the course Software Testing (LNU HT2018).
+You can create different playlist based on your preferences, the input of these playlist are .mp3 files, to sort them they will have linked variables such as: mood, length, year, etc. The program has a CommandLine interface.
+The goals of this project are:
 
+- Understand TDD (Test Driven Development) and apply it in this project.
+- Getting and showing expertise in the following frameworks and tools: Google Test, Google Moch, Gcov & Lcov.
 
-What sort of project you are going to code (For example a dice game)
-There are however some minimum requirements that we want you to achieve. You should see these as guidelines to conduct a project of the right size and type.
+----------------------------------------------------------------------------------------------------------------------------
+Requirements:
+ 
 In order to get a higher grade you need to show that you have:
 
 Made commits to GitHub using a specific pattern that shows that you have worked using TDD, (at least 20 commits.)
