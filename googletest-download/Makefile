@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named googletest
+# Target rules for targets named googletest-download
 
 # Build rule for target.
-googletest: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 googletest
-.PHONY : googletest
+googletest-download: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 googletest-download
+.PHONY : googletest-download
 
 # fast build rule for target.
-googletest/fast:
-	$(MAKE) -f CMakeFiles/googletest.dir/build.make CMakeFiles/googletest.dir/build
-.PHONY : googletest/fast
+googletest-download/fast:
+	$(MAKE) -f CMakeFiles/googletest-download.dir/build.make CMakeFiles/googletest-download.dir/build
+.PHONY : googletest-download/fast
 
 # Help Target
 help:
@@ -131,7 +131,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... googletest"
+	@echo "... googletest-download"
 .PHONY : help
 
 

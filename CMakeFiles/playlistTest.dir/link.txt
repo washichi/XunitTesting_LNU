@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/playlistTest.dir/playlist_test.cpp.o  -o playlistTest -rdynamic lib/libgtest.a -pthread 

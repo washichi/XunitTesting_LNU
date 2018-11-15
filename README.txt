@@ -53,7 +53,11 @@ https://github.com/davidstutz/googlemock-example
 https://martinfowler.com/articles/mocksArentStubs.html
 
 ----------------------------------------------------------------------------------------------------------------------------
-Questions:
+Questions/problems:
+
+How to add multiple test resource files, using cmake,
+and link them (including other source files)
+To fix the undefined reference to 'function'  error.
 
 Mocking functions with gmock is way more complicated when the function isn't virtual.
 should I make my functions virtual, even if I don't override them? (beside my mock)

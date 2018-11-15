@@ -1,0 +1,14 @@
+# Target labels
+ googletest-download
+# Source files and their labels
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles/googletest-download
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles/googletest-download.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles/googletest-download-complete.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-skip-update.rule

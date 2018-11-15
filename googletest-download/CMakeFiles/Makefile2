@@ -60,39 +60,39 @@ CMAKE_SOURCE_DIR = /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/Software
 CMAKE_BINARY_DIR = /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download
 
 #=============================================================================
-# Target rules for target CMakeFiles/googletest.dir
+# Target rules for target CMakeFiles/googletest-download.dir
 
 # All Build rule for target.
-CMakeFiles/googletest.dir/all:
-	$(MAKE) -f CMakeFiles/googletest.dir/build.make CMakeFiles/googletest.dir/depend
-	$(MAKE) -f CMakeFiles/googletest.dir/build.make CMakeFiles/googletest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target googletest"
-.PHONY : CMakeFiles/googletest.dir/all
+CMakeFiles/googletest-download.dir/all:
+	$(MAKE) -f CMakeFiles/googletest-download.dir/build.make CMakeFiles/googletest-download.dir/depend
+	$(MAKE) -f CMakeFiles/googletest-download.dir/build.make CMakeFiles/googletest-download.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target googletest-download"
+.PHONY : CMakeFiles/googletest-download.dir/all
 
 # Include target in all.
-all: CMakeFiles/googletest.dir/all
+all: CMakeFiles/googletest-download.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/googletest.dir/rule: cmake_check_build_system
+CMakeFiles/googletest-download.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles 9
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/googletest.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/googletest-download.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles 0
-.PHONY : CMakeFiles/googletest.dir/rule
+.PHONY : CMakeFiles/googletest-download.dir/rule
 
 # Convenience name for target.
-googletest: CMakeFiles/googletest.dir/rule
+googletest-download: CMakeFiles/googletest-download.dir/rule
 
-.PHONY : googletest
-
-# clean rule for target.
-CMakeFiles/googletest.dir/clean:
-	$(MAKE) -f CMakeFiles/googletest.dir/build.make CMakeFiles/googletest.dir/clean
-.PHONY : CMakeFiles/googletest.dir/clean
+.PHONY : googletest-download
 
 # clean rule for target.
-clean: CMakeFiles/googletest.dir/clean
+CMakeFiles/googletest-download.dir/clean:
+	$(MAKE) -f CMakeFiles/googletest-download.dir/build.make CMakeFiles/googletest-download.dir/clean
+.PHONY : CMakeFiles/googletest-download.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/googletest-download.dir/clean
 
 .PHONY : clean
 

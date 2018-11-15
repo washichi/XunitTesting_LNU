@@ -9,7 +9,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "CMakeFiles/3.5.1/CMakeSystem.cmake"
   "CMakeLists.txt"
-  "googletest-prefix/tmp/googletest-cfgcmd.txt.in"
+  "googletest-download-prefix/tmp/googletest-download-cfgcmd.txt.in"
   "/usr/share/cmake-3.5/Modules/CMakeGenericSystem.cmake"
   "/usr/share/cmake-3.5/Modules/CMakeParseArguments.cmake"
   "/usr/share/cmake-3.5/Modules/CMakeSystemSpecificInformation.cmake"
@@ -31,12 +31,12 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "googletest-prefix/src/googletest-stamp/googletest-gitinfo.txt"
-  "googletest-prefix/tmp/googletest-cfgcmd.txt"
+  "googletest-download-prefix/src/googletest-download-stamp/googletest-download-gitinfo.txt"
+  "googletest-download-prefix/tmp/googletest-download-cfgcmd.txt"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/googletest.dir/DependInfo.cmake"
+  "CMakeFiles/googletest-download.dir/DependInfo.cmake"
   )
