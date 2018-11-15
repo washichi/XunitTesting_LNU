@@ -7,7 +7,8 @@ enum Mood
     Active,
     Party,
     Study,
-    Space
+    Space,
+    Chill
 };
 
 #endif

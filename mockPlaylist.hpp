@@ -3,7 +3,5 @@
 class MockPlaylist : public Playlist
 {
   public:
-    Playlist();
-    addSong(PenDown, void());
-    order();
+    //
 };

@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles/googletest
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles/googletest.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/CMakeFiles/googletest-complete.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule

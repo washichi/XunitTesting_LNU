@@ -123,33 +123,6 @@ executeTests/fast:
 	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/build
 .PHONY : executeTests/fast
 
-playlistManager_test.o: playlistManager_test.cpp.o
-
-.PHONY : playlistManager_test.o
-
-# target to build an object file
-playlistManager_test.cpp.o:
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/playlistManager_test.cpp.o
-.PHONY : playlistManager_test.cpp.o
-
-playlistManager_test.i: playlistManager_test.cpp.i
-
-.PHONY : playlistManager_test.i
-
-# target to preprocess a source file
-playlistManager_test.cpp.i:
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/playlistManager_test.cpp.i
-.PHONY : playlistManager_test.cpp.i
-
-playlistManager_test.s: playlistManager_test.cpp.s
-
-.PHONY : playlistManager_test.s
-
-# target to generate assembly for a file
-playlistManager_test.cpp.s:
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/playlistManager_test.cpp.s
-.PHONY : playlistManager_test.cpp.s
-
 playlist_test.o: playlist_test.cpp.o
 
 .PHONY : playlist_test.o
@@ -177,32 +150,32 @@ playlist_test.cpp.s:
 	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/playlist_test.cpp.s
 .PHONY : playlist_test.cpp.s
 
-song_test.o: song_test.cpp.o
+testMain.o: testMain.cpp.o
 
-.PHONY : song_test.o
+.PHONY : testMain.o
 
 # target to build an object file
-song_test.cpp.o:
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/song_test.cpp.o
-.PHONY : song_test.cpp.o
+testMain.cpp.o:
+	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/testMain.cpp.o
+.PHONY : testMain.cpp.o
 
-song_test.i: song_test.cpp.i
+testMain.i: testMain.cpp.i
 
-.PHONY : song_test.i
+.PHONY : testMain.i
 
 # target to preprocess a source file
-song_test.cpp.i:
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/song_test.cpp.i
-.PHONY : song_test.cpp.i
+testMain.cpp.i:
+	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/testMain.cpp.i
+.PHONY : testMain.cpp.i
 
-song_test.s: song_test.cpp.s
+testMain.s: testMain.cpp.s
 
-.PHONY : song_test.s
+.PHONY : testMain.s
 
 # target to generate assembly for a file
-song_test.cpp.s:
-	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/song_test.cpp.s
-.PHONY : song_test.cpp.s
+testMain.cpp.s:
+	$(MAKE) -f CMakeFiles/executeTests.dir/build.make CMakeFiles/executeTests.dir/testMain.cpp.s
+.PHONY : testMain.cpp.s
 
 # Help Target
 help:
@@ -213,15 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... executeTests"
-	@echo "... playlistManager_test.o"
-	@echo "... playlistManager_test.i"
-	@echo "... playlistManager_test.s"
 	@echo "... playlist_test.o"
 	@echo "... playlist_test.i"
 	@echo "... playlist_test.s"
-	@echo "... song_test.o"
-	@echo "... song_test.i"
-	@echo "... song_test.s"
+	@echo "... testMain.o"
+	@echo "... testMain.i"
+	@echo "... testMain.s"
 .PHONY : help
 
 

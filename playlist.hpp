@@ -8,12 +8,13 @@
 class Playlist
 {
 public:
-  Playlist();
+  Playlist(std::string title, Mood mood);
   ~Playlist();
 
   bool addSong(Song song);
   bool order();
-  bool setMood();
+  bool setMood(Mood mood);
+  Mood getMood();
 
 private:
   std::string title;

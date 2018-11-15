@@ -1,1 +1,1 @@
-/usr/bin/c++      CMakeFiles/executeTests.dir/playlistManager_test.cpp.o CMakeFiles/executeTests.dir/song_test.cpp.o CMakeFiles/executeTests.dir/playlist_test.cpp.o  -o executeTests -rdynamic -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
+/usr/bin/c++      CMakeFiles/executeTests.dir/testMain.cpp.o CMakeFiles/executeTests.dir/playlist_test.cpp.o  -o executeTests -rdynamic -lgmock_main 

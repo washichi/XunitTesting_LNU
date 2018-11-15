@@ -4,9 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlistManager_test.cpp" "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles/executeTests.dir/playlistManager_test.cpp.o"
   "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/playlist_test.cpp" "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles/executeTests.dir/playlist_test.cpp.o"
-  "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/song_test.cpp" "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles/executeTests.dir/song_test.cpp.o"
+  "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/testMain.cpp" "/media/washichi/HDDATA/Documents/FHICT/MINOR/courses/SoftwareTesting/XunitTesting_LNU/CMakeFiles/executeTests.dir/testMain.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

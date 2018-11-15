@@ -25,7 +25,8 @@ Make sure you are working in “Test Driven Development” manner. Make a git-co
 Red: Write a test that fails. Make a commit with the word “RED” in commit message.
 Green: Change the implementation so that the test-suite succeeds. Make a commit with the word “GREEN”.
 Refactor: Rewrite the code. Make a commit with the word “REFACTOR”.
-At some point do a coverage measurement. If you make a code-coverage measurement do a commit separately for that named “COVERAGE”, make sure you save the measurement as a file in your GitHub repository. Could be a text file or a screenshot-image.
+At some point do a coverage measurement. If you make a code-coverage measurement do a commit separately for that named “COVERAGE”, 
+make sure you save the measurement as a file in your GitHub repository. Could be a text file or a screenshot-image.
 
 Show a project of proper size and complexity that illustrates your proficiency in the techniques.
 Our criteria is:
@@ -44,5 +45,19 @@ Use a Code coverage tool
 Documentation used:
 
 https://www.srcmake.com/home/google-cpp-test-framework
-https://github.com/google/googletest/blob/master/googletest/docs/primer.md
+https://github.com/google/googletest/tree/master/googletest
+https://github.com/google/googletest/blob/master/googlemock
+https://www.slothparadise.com/google-testing-example-and-cmake-integration/
 https://github.com/bast/gtest-demo
+https://github.com/davidstutz/googlemock-example
+https://martinfowler.com/articles/mocksArentStubs.html
+
+----------------------------------------------------------------------------------------------------------------------------
+Questions:
+
+Mocking functions with gmock is way more complicated when the function isn't virtual.
+should I make my functions virtual, even if I don't override them? (beside my mock)
+source: https://github.com/google/googletest/blob/master/googlemock/docs/ForDummies.md
+
+
+

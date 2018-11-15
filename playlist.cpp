@@ -1,6 +1,6 @@
 #include "playlist.hpp"
 
-void Playlist()
+void Playlist(std::string title, Mood mood)
 {
     //
 }
@@ -11,6 +11,11 @@ bool addSong(Song song)
 }
 
 bool order()
+{
+    return false;
+}
+
+bool setMood()
 {
     return false;
 }
